@@ -4,7 +4,7 @@
 #include <unistd.h>
 #include <time.h>
 
-/**ceshi
+/**
  * Define a structure that describes the application object
  * name: your application's name
  * restart_cmd: Any shell command you want to execute, Here is the order to restart.
